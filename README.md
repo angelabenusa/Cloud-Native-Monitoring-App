@@ -1,7 +1,7 @@
 ### Cloud Native Monitoring Application on Kubernetes
 
 #### Architecture Diagram
-![alt text](image-1.png)
+![Project Diagram](images/diagram.png)
 
 #### Project Overview
 
